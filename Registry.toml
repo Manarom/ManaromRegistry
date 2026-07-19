@@ -4,5 +4,6 @@ repo = "https://github.com/Manarom/ManaromRegistry.git"
 
 [packages]
 93d27cc7-3c84-4fb8-bcce-48b61e14d86f = { name = "PeaksSeparation", path = "P/PeaksSeparation" }
+d11bbabd-dab6-4367-9c65-d486568a54a8 = { name = "ScaledPolynomials", path = "S/ScaledPolynomials" }
 f583effd-a810-4e6b-b1e2-2b4349a685d7 = { name = "RadiationPyrometers", path = "R/RadiationPyrometers" }
 fe3d11be-9380-49a5-9625-6df534737d98 = { name = "BandPyrometry", path = "B/BandPyrometry" }
