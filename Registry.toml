@@ -1,0 +1,5 @@
+name = "ManaromRegistry"
+uuid = "1bece238-766f-4185-87df-1dc9911064e9"
+repo = "https://github.com/Manarom/ManaromRegistry.git"
+
+[packages]
