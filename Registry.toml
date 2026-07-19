@@ -3,4 +3,5 @@ uuid = "1bece238-766f-4185-87df-1dc9911064e9"
 repo = "https://github.com/Manarom/ManaromRegistry.git"
 
 [packages]
+93d27cc7-3c84-4fb8-bcce-48b61e14d86f = { name = "PeaksSeparation", path = "P/PeaksSeparation" }
 f583effd-a810-4e6b-b1e2-2b4349a685d7 = { name = "RadiationPyrometers", path = "R/RadiationPyrometers" }
