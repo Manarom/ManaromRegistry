@@ -1,0 +1,3 @@
+name = "BandPyrometry"
+uuid = "fe3d11be-9380-49a5-9625-6df534737d98"
+repo = "https://github.com/Manarom/BandPyrometry.jl.git"
